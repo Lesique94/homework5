@@ -1,0 +1,47 @@
+.header {
+    color: black;
+    background-color: #77219f;
+    font-size: 30px;
+}
+
+.a1 {
+    color: aliceblue;
+    background-color: blueviolet;
+}
+
+.a2 {
+    color: aliceblue;
+    background-color: brown;
+}
+
+.a3,
+.a4 {
+    background-color: aquamarine;
+    color: blue;
+    font-size: 25px;
+}
+
+#b1 {
+    background-color: #6a7b77;
+    color: white;
+}
+
+input {
+    font-size: 40px;
+}
+
+h1 + p {
+    font-size: 30px;
+    background-color: blue;
+    color: red;
+}
+
+[href$="#"] {
+    background-color: black;
+    color: white;
+}
+
+ul>li>a {
+    font-size: 50px;
+}
+
